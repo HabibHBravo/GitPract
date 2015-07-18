@@ -1,2 +1,2 @@
 # GitPract
-Practicing with Git
+Hello there, my name is Habib!
